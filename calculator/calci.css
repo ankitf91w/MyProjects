@@ -1,0 +1,39 @@
+p,h1{
+text-align: center;
+}
+
+
+ .button {
+    background-color: black;
+    border: bold;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+  .button:hover {
+    background-color: white;
+    color: black;
+  }
+
+ #DEL {width: 155px;}
+  #EQUAL {width: 240px;} 
+
+  input{
+   background-color: rgb(197, 223, 159);
+  }
+
+  input[type=text] {
+    width: 39%;
+    height: 70px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border-radius: 0%;
+  }
+
+  .wrap{
+    margin-left: 500px; }
+ 
